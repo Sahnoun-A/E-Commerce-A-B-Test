@@ -31,6 +31,5 @@ Do NOT ship (retain A)
 Retain Control A. Iterate on the variant; target a more impactful change, pre-register a realistic MDE, and ensure planned sample size is achieved.
 
 ## 9. Resources
-- 🗃 [**GitHub Repo**](https://github.com/Sahnoun-A/-Amazon-Stock-Price-Forecasting)
-- 📘 [**Kaggle Notebook**](https://www.kaggle.com/code/abdelkabirsahnoun/amazon-stock-price-prediction)
-- 🌐 [**Flask App Demo**](http://18.189.247.217:8080)
+- 🗃 [**GitHub Repo**](https://github.com/Sahnoun-A/E-Commerce-A-B-Test)
+- 📘 [**Kaggle Notebook**](https://www.kaggle.com/code/abdelkabirsahnoun/a-b-testing)
